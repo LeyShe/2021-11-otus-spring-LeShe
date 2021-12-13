@@ -1,6 +1,5 @@
 package otus.spring.service;
 
-import com.opencsv.exceptions.CsvException;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
@@ -9,7 +8,6 @@ import org.mockito.Mockito;
 import org.mockito.junit.jupiter.MockitoExtension;
 import otus.spring.model.Question;
 
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
